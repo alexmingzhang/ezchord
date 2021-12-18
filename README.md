@@ -5,7 +5,6 @@
 Simply python script that can convert complex chord names to midi notes
 
 ## Prerequisites
-MIDIUtil
 
     $ pip install midiutil
 
