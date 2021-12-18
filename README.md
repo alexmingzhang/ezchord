@@ -1,7 +1,13 @@
 ![ezchord](https://user-images.githubusercontent.com/95546311/146629567-1fc2ac71-6f23-4d31-a64d-96c3fbd5ee97.png)
 
 # ezchord
-Convert complex chord names to midi notes
+Simply python script that can convert complex chord names to midi notes
+
+## Prerequisites
+MIDIUtil
+
+    $ pip install midiutil
+
 
 ## Usage
 
