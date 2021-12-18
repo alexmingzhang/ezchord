@@ -28,22 +28,22 @@ Use '-' to continue previous chord or 'nc' to have no chord
     
 ## Examples
 
-Twelve Bar Blues
+**Twelve Bar Blues**
 
     $ ./ezchord.py I I I I IV IV I I V IV I I -d 4 12_bar_blues.mid
 
-Family Guy Theme Song
+**Family Guy Theme Song**
 
     $ ./ezchord.py F - G7 - Gmin7 C7 F F7 Bb Bdim7 F/C D7 G9 - C B9 Bb Bmin7 F/C D7 Gmin7 C7 Fmaj7 Bbmaj7 Emin7b5 A7 Dmin - G9 C7 Db7 C7/E F6/9 --key F -t 140 --voice -o family_guy.midi
 
-Giant Steps
+**Giant Steps**
 
     $ ./ezchord.py Bmaj7 D7 Gmaj7 Bb7 Ebmaj7 - A-7 D7 Gmaj7 Bb7 Ebmaj7 F#7 Bmaj7 - F-7 Bb7 Ebmaj7 - A-7 D7 Gmaj7 - C#-7 F#7 Bmaj7 - F-7 Bb7 Ebmaj7 - C#-7 F#7 -t 130 -d 1 --voice -o giantsteps.mid
 
-Autumn Leaves
+**Autumn Leaves**
     
     $ ./ezchord.py Cmin7 F7 Bbmaj7 Ebmaj7 Amin7b5 D7 Gmin7 -d  4 --key G --voice -o autumn_leaves.mid 
 
-Misty
+**Misty**
 
     $ ./ezchord.py D/Eb Ebmaj7 Bb-7 Eb7 Abmaj7 - Ab-7 Db7 Ebmaj7 C-7 F-7 Bb7 G-7 C7 F-7 Bb7 Ebmaj7 --voice -o misty.mid
