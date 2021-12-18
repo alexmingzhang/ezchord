@@ -1,4 +1,5 @@
-![ezchord](https://user-images.githubusercontent.com/95546311/146629567-1fc2ac71-6f23-4d31-a64d-96c3fbd5ee97.png)
+![ezchord](https://user-images.githubusercontent.com/95546311/146630042-6b7d96a1-0f9a-4c98-97f4-ea400d0dc7d6.png)
+
 
 # ezchord
 Simply python script that can convert complex chord names to midi notes
