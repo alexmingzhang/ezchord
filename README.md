@@ -14,7 +14,7 @@ Supports roman numerals
 
 Supports complex chord names
 
-    $ ./ezchord.py C6/9 Fminmaj13#11 Fbdim7add9/G Fbbaugmaj13b9#11/Cbb Gsus9#13
+    $ ./ezchord.py C6/9 Cb(b9) Fminmaj13#11 Fbdim7add9/G Fbbaugmaj13b9#11/Cbb Gsus9#13
 
 Use '-' to continue previous chord or 'nc' to have no chord
 
